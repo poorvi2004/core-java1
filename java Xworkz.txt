@@ -1,0 +1,53 @@
+Day 4
+why java ?
+java don't have restriction we can use the java in the diff field like enterprise application,cloud,healthcare and for the security purose 
+
+Inheritance
+A class aquiring the characters of one class to another
+abstractions
+
+class Namaskara {
+//fist character(N) should be uppercase
+
+public static void main(sting[] anyThing){
+
+System.outrintln(" Java");
+
+}
+}
+
+javac filnme.java
+
+java filename
+
+
+take 20 classes example
+class poster (collect atleast 15 sentences sops)
+
+spring,JEE,javascript,springboot
+
+
+
+Day 5th
+class- it is a keyword,all the keywords in lowercase only,
+{} curly b asis used to represent the body of the code
+main is the method or start/end point of the java program,void is a return type,JVm is looking for main()
+public and static are the access specifier
+System.outrintln(" Java"); - here the "java" is called the reference
+if the byte code is not allocated than it shows the value as ?pop
+types of variable in java
+   instance var
+   local var
+   static var
+   parameter var - (sting[] anyThing)
+oracle  java doc - java it will give the brief information about the java
+
+Day 6th
+Organization , application , project(Enterprise)s , Data(Logic CRUD Operation )--for that we require Programming Language(it will pROvide syntax and symmantics)
+
+
+day 9th
+datatypes - Pimitive and non-primitive(object reference type)
+
+
+
