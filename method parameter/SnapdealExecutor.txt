@@ -1,0 +1,13 @@
+class SnapdealExecutor
+{
+	public static void main(String[] args)
+	{
+		System.out.println("Welcome to Snapdeal");
+
+		Snapdeal.createAccount("Rohit","rohit@gmail.com",9123456780l,"Rohit@123","BTM Layout","Bangalore","560076");
+		Snapdeal.createAccount("Neha","neha@gmail.com",9234567891l,"Neha@123","MG Road","Mumbai","400001");
+		Snapdeal.createAccount("Aman","aman@gmail.com",9345678902l,"Aman@123","HSR","Bangalore","560102");
+		Snapdeal.createAccount("Pooja","pooja@gmail.com",9456789013l,"Pooja@123","Anna Nagar","Chennai","600040");
+		Snapdeal.createAccount("Kartik","kartik@gmail.com",9567890124l,"Kartik@123","Sector 18","Noida","201301");
+	}
+}
